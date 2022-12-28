@@ -1,0 +1,15 @@
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\bin\Debug\net6.0\DZ_01.exe
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\bin\Debug\net6.0\DZ_01.deps.json
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\bin\Debug\net6.0\DZ_01.runtimeconfig.json
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\bin\Debug\net6.0\DZ_01.dll
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\bin\Debug\net6.0\DZ_01.pdb
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\obj\Debug\net6.0\DZ_01.csproj.AssemblyReference.cache
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\obj\Debug\net6.0\DZ_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\obj\Debug\net6.0\DZ_01.AssemblyInfoInputs.cache
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\obj\Debug\net6.0\DZ_01.AssemblyInfo.cs
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\obj\Debug\net6.0\DZ_01.csproj.CoreCompileInputs.cache
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\obj\Debug\net6.0\DZ_01.dll
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\obj\Debug\net6.0\refint\DZ_01.dll
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\obj\Debug\net6.0\DZ_01.pdb
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\obj\Debug\net6.0\DZ_01.genruntimeconfig.cache
+C:\Users\s.sergeev\Desktop\C_sharp_lesson_3_DZ\DZ_01\obj\Debug\net6.0\ref\DZ_01.dll
